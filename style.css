@@ -14,23 +14,34 @@ body {
     padding: 20px;
 }
 
-/* Header style */
+/* Header Styles */
 header {
-    text-align: left; /* Right align header text */
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    font-size: 1.2rem;
-    font-weight: bold;
+    display: flex; /* Use flexbox for the header */
+    justify-content: flex-start; /* Align title to the left */
+    align-items: center; /* Vertically center the title */
+    padding: 10px 20px; /* Padding around the header */
+    background-color: white; /* Background color of header */
+    position: relative; /* Ensure elements are positioned properly */
 }
+
+/* Title Styles */
+header h1 {
+    margin: 0; /* Remove default margin */
+    font-size: 24px; /* Adjust font size */
+    color: black; /* Title color */
+}
+
+
 
 /* Buttons */
 .buttons {
     display: flex;
     justify-content: right;
+    /* position: fixed; */
     gap: 20px;
-    margin-top: 50px;
 }
+
+
 /* Styling for the buttons */
 button {
     padding: 3px 8px; /* Smaller padding inside the button */
