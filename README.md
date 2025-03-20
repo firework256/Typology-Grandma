@@ -18,7 +18,10 @@ I quite agree. So I set off to make a dataset that documented the surveillance m
 <img width="400" alt="Screenshot 2025-03-20 at 4 12 05 PM" src="https://github.com/user-attachments/assets/a6a1c144-4d33-4a01-b375-b985d39ad7bb" />
 <img width="200" alt="Screenshot 2025-03-20 at 4 12 34 PM" src="https://github.com/user-attachments/assets/b273dc72-584c-48b6-a4eb-30df756f2d48" />
 
-[Find video]
+
+https://github.com/user-attachments/assets/a07a525f-a11e-421e-b90f-a6cee387cec6
+
+
 
 *I feel that I should emphasize that my grandma doesn't know about this project. If I get it to a really great place, I'd like to eventually show her.*
 *However, both my parent's are well aware of the project, and suprisingly encouraged it.*
@@ -153,20 +156,51 @@ I played around with just using a lasso to extract her
 ![video0_frame_0004](https://github.com/user-attachments/assets/ae4c7efa-1f50-40ba-8214-f9770e3a6ade)
 
 
-## 5. t
+
+
+## 6. Trying to think about what makes grandma's environment special?
+
+I decided that the things that are really interesting about grandma's environment, isn't necessarily about grandma herself (although she's the most interesting person I know), It's about the people that come to visit her, the things that make up her life like her packages, gardening, visitors etc. It gives you a glimpse into how she lives her life. 
+
+This is obviously a really small subsection of the dataset, but as I reexamine what it is I want to focus on, these help me redisect the possibilities that I would want to further pursue.
+
+##7. Somewhat official images
+
+### Outfits 
+![outfits_grid Large](https://github.com/user-attachments/assets/97339942-12bc-4b18-8f16-3e1fef1d0e40)
+
+
+### Gardening 
+![gardenshot_grid Large](https://github.com/user-attachments/assets/b7faf63e-0018-4392-8f81-fbc2c71a0531)
+
+
+### Package
+![package_grid Large](https://github.com/user-attachments/assets/be4edada-9d6b-4b07-80ed-6587cce25809)
+
+
+### Visitors 
+![visitors_grid Large](https://github.com/user-attachments/assets/f6e4329b-c78c-4e89-b7d0-420ee9e37648)
+
+
+### 385 Images of Grandma 
+![visitors_grid-0 Large](https://github.com/user-attachments/assets/8c039038-ffda-4b94-a446-91a86aac38b6)
 
 
 
 
+# Next Steps
+I think I'm a lot closer - there was a lot of progress, specifically in deciding how I want to show the images of grandma.
+I also know FFMPEG AND GITHUB like the back of my hand now.
+As I'm working with the dataset, I'm realizing that the presentation is increasingly key, and I'd consider this an initial version of how to manipulate the images, and better organize the information.
+
+I want to eventually label and organize all the visitors with names, document her daily outfits, and focus on the packages that arrive, and her passion for gardening.
+I think these elements really allow you to know my grandma's interests at this stage of her life through the imagery.
+
+The videos of her hosing the garden and pacing back and forth are some of my favorite videos, and I want to be able to strongly cherish and document the ability of documenting the ring videos of her front porch.
+
+I want to eventually update the information onto the following website: https://firework256.github.io/Typology-Grandma/
+Thanks Kathleen for the interactive website inspo <3
 
 
 
-write** a few sentences about your dataset. What did you collect? Why did this data intrigue you? How did you collect it? What challenges did you overcome to collect/organize/use it? 
 
-* The Syllabus can be found [here](https://github.com/golanlevin/gen-ai/blob/main/syllabus/readme.md)
-
-## Daily Notes
-
-* `Tue 01/14` [Hello](daily_notes/0114.md)
-* `Th
-* *Dates coming soon (and I'll provide some options to vote on).*
