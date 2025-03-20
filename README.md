@@ -15,8 +15,8 @@ I was toying with using some sort of surveillance dataset, but when it came to p
 I had the inkling thoguht that it could be really interest to purse through, and after taling with Golan, using my grandma's dataset is quite "wholesome".
 I quite agree. So I set off to make a dataset that documented the surveillance my grandmother.
 
-<img width="1326" alt="Screenshot 2025-03-20 at 4 12 05 PM" src="https://github.com/user-attachments/assets/a6a1c144-4d33-4a01-b375-b985d39ad7bb" />
-<img width="659" alt="Screenshot 2025-03-20 at 4 12 34 PM" src="https://github.com/user-attachments/assets/b273dc72-584c-48b6-a4eb-30df756f2d48" />
+<img width="400" alt="Screenshot 2025-03-20 at 4 12 05 PM" src="https://github.com/user-attachments/assets/a6a1c144-4d33-4a01-b375-b985d39ad7bb" />
+<img width="200" alt="Screenshot 2025-03-20 at 4 12 34 PM" src="https://github.com/user-attachments/assets/b273dc72-584c-48b6-a4eb-30df756f2d48" />
 
 [Find video]
 
@@ -26,7 +26,6 @@ I quite agree. So I set off to make a dataset that documented the surveillance m
 
 # Challenges
 I encountered a lot of challenges with the dataset. The most being that because it's a dataset, I truly care about, I don't want to screw it up, which is why I'll be refining it profusely.
-
 
 
 ## 1. Ring Videos - Full HD Resolution
@@ -47,17 +46,66 @@ After various testing, I decided to:
 
 
 ##3 General Mosaic
-From here, I tested what a mosaic would look like and I absolutely hated it!
+***From here, I tested what a mosaic would look like and I absolutely hated it!***
 There wasn't enough focus on the main person, and it just looked like the same image of my grandma's front door over and over again.
 You couldn't tell what was interesting about the dataset.
 
+### Mosaic Initial Tests
+*These are not with all the images
 ![InitialTest_grid Large](https://github.com/user-attachments/assets/34308206-67d8-4a56-af24-90225a7d1d6f)
+### Mosaic - Wall
+![walloutput_grid Large](https://github.com/user-attachments/assets/a06fbb36-329e-467c-a75f-dd88b0d4c092)
+### Mosaic - Garden
+![gardenoutput_grid Large](https://github.com/user-attachments/assets/4e54d8db-b7c0-442a-93bf-9761b33c1468)
 
 
 
+## 3. Trial & Error - Capturing Grandma by sections of the image
+I realized that I may have better luck if I organized Grandma by sections where she moved. I realized that she tended to be in the general vicinity of the 5 boxes.
+*Wall
+*Mid Wall & Light
+*Light
+*Column
+*Garden/Out of Picture
+
+My long winded thinking with this was that if I could organize frame by frame, then I could easily crop once I allocated each image into their assigned folder.
+In hindset, this does work, and worked well, but it was soooooo laborious. 
+The other problem is that I had to formulate where the croppings needed to take place in the folder, and I kept accidnetally cropping the wrong area! 
+But trial and error, that's okie we love it!
+![newVid00422_frame_0004](https://github.com/user-attachments/assets/22b796c9-c616-4a68-9c82-a8bc5e915d8b)
+
+### Mosaic Cropping Errors
+### Light Section - Bit hard to see her!
+![light Large](https://github.com/user-attachments/assets/83345039-72a1-40d7-8370-507d151d531f)
 
 
-## 3. the ZOOM - How would I highlight Grandma?
+### Somwhat Positive Mosaic Cropping Outputs
+![wall_output_grid Large](https://github.com/user-attachments/assets/60a9fe99-ce3d-44bf-a9da-49fd51d7b6b5)
+
+
+
+## 4. I wasn't cropping close enough - the general area was still too broad??????????
+I tried to crop as much as I could, and condensed the garden into 5 sections based on where she was in frame.
+Here is where i found a bit more success:
+
+
+###Classic Square - Essentially where Grandma was out of the picture
+![classicsq Large](https://github.com/user-attachments/assets/b54b4703-2d3a-4630-9e70-bd0e200572af)
+
+
+###Garden Close Up - when Grandma gardens, she gets in there!
+![gardencloseup Large](https://github.com/user-attachments/assets/9a5d377c-df59-412d-a963-5f8bebe1aeb3)
+
+###Garden Kneel - Many photos were eliminated from this section.
+![standingcloseup Large](https://github.com/user-attachments/assets/61d6166c-f66d-447c-b4d4-26e4b124cc3c)
+
+###Kneel Column - Will not be shown to the class.
+
+###Standing Column
+![standingcloseup Large](https://github.com/user-attachments/assets/97d8a7d4-7ad2-4f75-84ec-c48936806d4b)
+
+
+## 5. the ZOOM - How would I highlight Grandma?
 
 I realized (a little too late) that I couldn't use every image.
 Images of Grandma somewhat out of view as she gardened, specifically grandma in the light in between the palm trees, were likely images I should eliminate from my dashboard.
@@ -67,7 +115,6 @@ Ring Breakdown:
 * There are exactly 250 videos - Ring allowed the export of 5 folders, which held 50 videos.
 * Exported frames come to about 1,500 images per Ring folder of 50 videos.
 * I had to go through and delete the images I didn't like
-
 
 
 
