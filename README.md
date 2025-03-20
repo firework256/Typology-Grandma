@@ -72,10 +72,11 @@ My long winded thinking with this was that if I could organize frame by frame, t
 In hindset, this does work, and worked well, but it was soooooo laborious. 
 The other problem is that I had to formulate where the croppings needed to take place in the folder, and I kept accidnetally cropping the wrong area! 
 But trial and error, that's okie we love it!
-![newVid00422_frame_0004](https://github.com/user-attachments/assets/22b796c9-c616-4a68-9c82-a8bc5e915d8b)
+
+![newVid00422_frame_0004](https://github.com/user-attachments/assets/1c1c0d02-2e2c-4df3-b0de-6e423fa64e69)
 
 ### Mosaic Cropping Errors
-### Light Section - Bit hard to see her!
+### Light Section - Bit hard to see her because of the light!
 ![light Large](https://github.com/user-attachments/assets/83345039-72a1-40d7-8370-507d151d531f)
 
 
@@ -85,9 +86,27 @@ But trial and error, that's okie we love it!
 
 
 ## 4. I wasn't cropping close enough - the general area was still too broad??????????
+
+
+
+###Wall
+![wall Large](https://github.com/user-attachments/assets/3cfb6de0-2770-400d-9446-818535458734)
+
+###Column
+![columt_output_grid Large](https://github.com/user-attachments/assets/50138848-da20-4f04-856d-64c81ff94c7a)
+
+###Garden Midlight
+![garden_midlight_output_grid-0 Large](https://github.com/user-attachments/assets/f8a8a946-730d-4c2f-a66c-2f234f18f475)
+
+![midlight_output_grid Large](https://github.com/user-attachments/assets/809e6f6b-4cee-4f7f-942f-7a6a6b784b7e)
+
+###Light
+
+![thelight_output_grid Large](https://github.com/user-attachments/assets/7b9d8771-54fe-4a6e-91c7-94bb63fa369a)
+
+
 I tried to crop as much as I could, and condensed the garden into 5 sections based on where she was in frame.
 Here is where i found a bit more success:
-
 
 ###Classic Square - Essentially where Grandma was out of the picture
 ![classicsq Large](https://github.com/user-attachments/assets/b54b4703-2d3a-4630-9e70-bd0e200572af)
@@ -107,8 +126,14 @@ Here is where i found a bit more success:
 
 ## 5. the ZOOM - How would I highlight Grandma?
 
-I realized (a little too late) that I couldn't use every image.
-Images of Grandma somewhat out of view as she gardened, specifically grandma in the light in between the palm trees, were likely images I should eliminate from my dashboard.
+I realized (a little too late) that I couldn't use every image, and it was so laborious organizing every image.
+Also images of Grandma somewhat out of view as she gardened, specifically grandma in the light in between the palm trees, were likely images I should eliminate from my dashboard.
+
+
+### 
+I played around with just using a laso to extract her
+
+<img width="777" alt="Screenshot 2025-03-20 at 11 31 59 AM" src="https://github.com/user-attachments/assets/e6855c34-705b-4009-9338-b1b51cbdd591" />
 
 Ring Breakdown:
 *Ring is 2 months of the most recent footage --> (Installed) February 15, 2025 - March 17th, 2025.
