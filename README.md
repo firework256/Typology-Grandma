@@ -19,7 +19,18 @@ I quite agree. So I set off to make a dataset that documented the surveillance m
 <img width="200" alt="Screenshot 2025-03-20 at 4 12 34 PM" src="https://github.com/user-attachments/assets/b273dc72-584c-48b6-a4eb-30df756f2d48" />
 
 
-https://github.com/user-attachments/assets/a07a525f-a11e-421e-b90f-a6cee387cec6
+
+
+
+https://github.com/user-attachments/assets/7623cfd9-b49a-41b5-914b-e33eeb6071e0
+
+
+
+https://github.com/user-attachments/assets/2a71eeea-d0ed-4c82-b09e-691fa597661b
+
+
+
+https://github.com/user-attachments/assets/75167821-1329-4d50-be56-264aa689e0fc
 
 
 
@@ -180,6 +191,10 @@ This is obviously a really small subsection of the dataset, but as I reexamine w
 
 ### Visitors 
 ![visitors_grid Large](https://github.com/user-attachments/assets/f6e4329b-c78c-4e89-b7d0-420ee9e37648)
+
+
+### Wheel
+![wheel_grid Large](https://github.com/user-attachments/assets/e8f7134c-a3a7-4b96-a4a0-61b57dd60922)
 
 
 ### 385 Images of Grandma 
