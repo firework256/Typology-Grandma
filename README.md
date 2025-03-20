@@ -24,6 +24,16 @@ I quite agree. So I set off to make a dataset that documented the surveillance m
 *However, both my parent's are well aware of the project, and suprisingly encouraged it.*
 
 
+
+Ring Breakdown:
+*Ring is 2 months of the most recent footage --> (Installed) February 15, 2025 - March 17th, 2025.
+* There are exactly 250 videos - Ring allowed the export of 5 folders, which held 50 videos.
+* Exported frames come to about 1,500 images per Ring folder of 50 videos.
+* I had to go through and delete the images I didn't like
+
+
+
+
 # Challenges
 I encountered a lot of challenges with the dataset. The most being that because it's a dataset, I truly care about, I don't want to screw it up, which is why I'll be refining it profusely.
 
@@ -80,27 +90,27 @@ But trial and error, that's okie we love it!
 ![light Large](https://github.com/user-attachments/assets/83345039-72a1-40d7-8370-507d151d531f)
 
 
-### Somwhat Positive Mosaic Cropping Outputs
+### Somewhat Positive Mosaic Cropping Outputs
 ![wall_output_grid Large](https://github.com/user-attachments/assets/60a9fe99-ce3d-44bf-a9da-49fd51d7b6b5)
 
 
 
-## 4. I wasn't cropping close enough - the general area was still too broad??????????
+## 4. I wasn't cropping close enough - getting closer!!
 
 
 
-###Wall
+### Wall
 ![wall Large](https://github.com/user-attachments/assets/3cfb6de0-2770-400d-9446-818535458734)
 
-###Column
+### Column
 ![columt_output_grid Large](https://github.com/user-attachments/assets/50138848-da20-4f04-856d-64c81ff94c7a)
 
-###Garden Midlight
+### Garden Midlight
 ![garden_midlight_output_grid-0 Large](https://github.com/user-attachments/assets/f8a8a946-730d-4c2f-a66c-2f234f18f475)
 
 ![midlight_output_grid Large](https://github.com/user-attachments/assets/809e6f6b-4cee-4f7f-942f-7a6a6b784b7e)
 
-###Light
+### Light
 
 ![thelight_output_grid Large](https://github.com/user-attachments/assets/7b9d8771-54fe-4a6e-91c7-94bb63fa369a)
 
@@ -108,19 +118,22 @@ But trial and error, that's okie we love it!
 I tried to crop as much as I could, and condensed the garden into 5 sections based on where she was in frame.
 Here is where i found a bit more success:
 
-###Classic Square - Essentially where Grandma was out of the picture
+### Classic Square - Essentially where Grandma was out of the picture
 ![classicsq Large](https://github.com/user-attachments/assets/b54b4703-2d3a-4630-9e70-bd0e200572af)
 
 
-###Garden Close Up - when Grandma gardens, she gets in there!
+### Garden Close Up
+When Grandma gardens, she gets in there!
 ![gardencloseup Large](https://github.com/user-attachments/assets/9a5d377c-df59-412d-a963-5f8bebe1aeb3)
 
-###Garden Kneel - Many photos were eliminated from this section.
+### Garden Kneel
+Many photos were eliminated from this section.
 ![standingcloseup Large](https://github.com/user-attachments/assets/61d6166c-f66d-447c-b4d4-26e4b124cc3c)
 
-###Kneel Column - Will not be shown to the class.
+### Kneel Column
+This will not be shown to the class.
 
-###Standing Column
+### Standing Column
 ![standingcloseup Large](https://github.com/user-attachments/assets/97d8a7d4-7ad2-4f75-84ec-c48936806d4b)
 
 
@@ -130,16 +143,17 @@ I realized (a little too late) that I couldn't use every image, and it was so la
 Also images of Grandma somewhat out of view as she gardened, specifically grandma in the light in between the palm trees, were likely images I should eliminate from my dashboard.
 
 
-### 
-I played around with just using a laso to extract her
+### Lasso Extract
+I played around with just using a lasso to extract her
 
 <img width="777" alt="Screenshot 2025-03-20 at 11 31 59 AM" src="https://github.com/user-attachments/assets/e6855c34-705b-4009-9338-b1b51cbdd591" />
 
-Ring Breakdown:
-*Ring is 2 months of the most recent footage --> (Installed) February 15, 2025 - March 17th, 2025.
-* There are exactly 250 videos - Ring allowed the export of 5 folders, which held 50 videos.
-* Exported frames come to about 1,500 images per Ring folder of 50 videos.
-* I had to go through and delete the images I didn't like
+
+### Trying to find overlapping outlines where Grandma moved - Didn't really work
+![video0_frame_0004](https://github.com/user-attachments/assets/ae4c7efa-1f50-40ba-8214-f9770e3a6ade)
+
+
+## 5. t
 
 
 
